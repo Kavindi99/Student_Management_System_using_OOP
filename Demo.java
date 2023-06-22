@@ -7,8 +7,10 @@ class Student{
 	int DBMSMarks;
     }
     
+
 class Demo{
 	static Scanner scan = new Scanner(System.in);
+//Student Array
 	static Student[] Student1 = new Student[0];
 	
 	public static void main(String args[]){
